@@ -1,3 +1,5 @@
+// Shortest Distance of Manhattan Path
+
 import java.util.*;
 
 public class Distance {
@@ -38,3 +40,6 @@ public class Distance {
         System.out.println("Shortest distance: " + distance);
     }
 }
+
+//Time complexity O(n)
+//Space complexity O(1)
