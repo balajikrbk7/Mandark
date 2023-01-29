@@ -1,3 +1,6 @@
+//Perfect Number
+
+
 import java.util.*;
 
 public class Main {
@@ -17,3 +20,6 @@ public class Main {
         }
     }
 }
+
+Time complexity O(n)
+Space complexity O(1)
